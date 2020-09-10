@@ -17,7 +17,10 @@ public class Bloque : MonoBehaviour
         // Destruimos el bloque
         Destroy(gameObject);
 
-        //
+        // Esto es para cuando nos queda el último bloque. Lo sacamos del padre para que quede en 0 el último.
+        transform.SetParent(null);
+        
+        // Sumar puntos
         puntos.GanarPuntos();
     }
 }

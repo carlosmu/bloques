@@ -186,7 +186,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -227,7 +227,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!1 &6330207
@@ -441,7 +441,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &140848079
@@ -475,7 +475,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -642,7 +642,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &259575127
@@ -676,7 +676,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -817,7 +817,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &313970828
@@ -851,7 +851,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -945,7 +945,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -986,7 +986,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!1 &338940843
@@ -1035,7 +1035,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &338940846
@@ -1069,7 +1069,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1144,7 +1144,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &339989365
@@ -1178,7 +1178,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1253,7 +1253,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &351431408
@@ -1287,7 +1287,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1351,7 +1351,7 @@ MonoBehaviour:
   textoVidas: {fileID: 1065272258}
   pelota: {fileID: 814650892}
   barra: {fileID: 1958165681}
-  gameOver: {fileID: 1653280447}
+  gameOver: {fileID: 0}
   siguienteNivel: {fileID: 0}
 --- !u!4 &408930175
 Transform:
@@ -1411,7 +1411,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 490578d08df570d4780b9ee14ccbc066, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nivelACargar: Nivel_02
+  nivelACargar: Portada
   retraso: 5
 --- !u!1 &427245921
 GameObject:
@@ -1459,7 +1459,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &427245924
@@ -1493,7 +1493,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1568,7 +1568,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &441050114
@@ -1602,7 +1602,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1677,7 +1677,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &455616576
@@ -1711,7 +1711,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1786,7 +1786,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &551179764
@@ -1820,7 +1820,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2108,7 +2108,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &663841265
@@ -2142,7 +2142,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2309,7 +2309,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &762960151
@@ -2343,7 +2343,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2418,7 +2418,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &795595954
@@ -2452,7 +2452,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2652,7 +2652,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &824283518
@@ -2686,7 +2686,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2761,7 +2761,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &885816738
@@ -2795,7 +2795,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2953,7 +2953,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &997046629
@@ -2987,7 +2987,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3062,7 +3062,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &1010115082
@@ -3096,7 +3096,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3171,7 +3171,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &1014836091
@@ -3205,7 +3205,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3314,7 +3314,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &1050945383
@@ -3348,7 +3348,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3423,7 +3423,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &1058708881
@@ -3457,7 +3457,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3642,7 +3642,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &1121095910
@@ -3676,7 +3676,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3863,7 +3863,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3904,7 +3904,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!1 &1168744652
@@ -3953,7 +3953,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &1168744655
@@ -3987,7 +3987,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4172,7 +4172,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &1183024366
@@ -4206,7 +4206,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4281,7 +4281,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &1203777473
@@ -4315,7 +4315,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4390,7 +4390,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &1241715088
@@ -4424,7 +4424,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4518,7 +4518,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4559,7 +4559,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!1 &1430811864
@@ -4608,7 +4608,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &1430811867
@@ -4642,7 +4642,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4824,7 +4824,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &1471622820
@@ -4858,7 +4858,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4933,7 +4933,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &1557340871
@@ -4967,7 +4967,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5042,7 +5042,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &1567838488
@@ -5076,7 +5076,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5151,7 +5151,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &1579224497
@@ -5185,7 +5185,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5260,7 +5260,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &1609108666
@@ -5294,7 +5294,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5465,7 +5465,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &1699120312
@@ -5499,7 +5499,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5667,7 +5667,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &1757118503
@@ -5701,7 +5701,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5776,7 +5776,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &1884861746
@@ -5810,7 +5810,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5885,7 +5885,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &1947743246
@@ -5919,7 +5919,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6231,7 +6231,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &2035956512
@@ -6265,7 +6265,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6340,7 +6340,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &2051926381
@@ -6374,7 +6374,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6449,7 +6449,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61f89d5002d69f14ab73e8d3f4dfb3c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efectoParticulas: {fileID: 4641540188214386015, guid: 980b572d4b9db8141870f317134c53de,
+  efectoParticulas: {fileID: 4641540188214386015, guid: 017d7a2f68eb8454bafe248d0c1156c5,
     type: 3}
   puntos: {fileID: 408930176}
 --- !u!65 &2110752609
@@ -6483,7 +6483,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83aca1063eaf48a47a9d3d79fea03802, type: 2}
+  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
