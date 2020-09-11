@@ -11,6 +11,9 @@ public class Pelota : MonoBehaviour
     // También podemos usar un parentTransform = GetComponentInParent<> y busca el componente en el padre.
     [SerializeField] private Transform parentTransform;
 
+    // Agregamos la referencia para iniciar el juego al tocar la pantalla
+    [SerializeField] private ElementoInteractivo pantalla;
+
     // Creamos una variable para asignarle el rigidbody del objeto
     Rigidbody rig;
 
@@ -59,7 +62,7 @@ public class Pelota : MonoBehaviour
     {
         // Si no hemos comenzado el juego y el input fire1 está presionado poner enJuego en true.
         // Fire1 por defecto es ctrl izdo y click izdo. Pero el click lo vamos a sacar.
-        if (!enJuego && Input.GetButtonDown("Fire1"))
+        if (!enJuego && (Input.GetButtonDown("Fire1") || pantalla.pulsado))
         {
             // Si se da la condición, ponemos en true.
             enJuego = true;

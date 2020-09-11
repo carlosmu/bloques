@@ -15,14 +15,24 @@ public class SonidosPelota : MonoBehaviour
         {
             punto.Play();
         }
-        else if (otro.gameObject.CompareTag("Suelo"))
-        {
-            muerte.Play();
-        }
+
+        // Primero lo hice así, después Andy me ayudó a poner el OnTriggerEnter
+        //else if (otro.gameObject.CompareTag("Suelo"))
+        //{
+        //    muerte.Play();
+        //}
+
         // Sino ejecuta el otro sonido
         else
         {
             rebote.Play();
+        }
+    }
+    private void OnTriggerEnter(Collider otro)
+    {
+        if (otro.gameObject.CompareTag("Suelo"))
+        {
+            muerte.Play();
         }
     }
 }

@@ -9,6 +9,10 @@ public class Barra : MonoBehaviour
 
     private Vector3 posicionInicial;
 
+    // Hacemos referencia a los botones de la UI mobile
+    [SerializeField] private ElementoInteractivo botonIzquierda;
+    [SerializeField] private ElementoInteractivo botonDerecha;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -27,13 +31,33 @@ public class Barra : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        float direccion;
+        if (botonIzquierda.pulsado)
+        {
+            direccion = -1;
+        }
+        else if (botonDerecha.pulsado)
+        {
+            direccion = 1;
+        }
+        else
+        {
+            direccion = Input.GetAxisRaw("Horizontal");
+        }
+
+        // Lo mismo anterior lo podemos escribir así:
+        // float direccion = botonIzquierda.pulsado ? -1 : ((botonDerecha.pulsado) ? 1 : Input.GetAxisRaw("Horizontal"));
+
+        float posX = transform.position.x + (direccion * velocidad * Time.deltaTime);
+
         // Obtener la entrada de teclado
-        float tecladoHorizontal = Input.GetAxisRaw("Horizontal");
+        // float tecladoHorizontal = Input.GetAxisRaw("Horizontal"); // Esto lo comentamos cuando hicimos botones mobile
         // Creamos la variable para asignar la posición de la barra
         // Accedemos al transform de la barra, a su posición X y lo sumamos a
         // ..la posición de la barra * la velocidad * el deltaTime, porque la velocidad es por segundos.
         // ..Y el update se ejecuta varias veces por segundo.
-        float posX = transform.position.x + (tecladoHorizontal * velocidad * Time.deltaTime);
+        // float posX = transform.position.x + (tecladoHorizontal * velocidad * Time.deltaTime); // Esto lo comentamos cuando hicimos botones mobile
         // Vamos a definir la nueva posición del transform. A través de un nuevo Vector3. 
         // En la X ponemos nuestra variable. En Y y Z tomamos los valores del transform del objeto. 
         // También podríamos hardcodearlo en: new Vector3(posX, -8, 0) que es lo que hay en la escena.

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 9028158559094342067}
   - component: {fileID: 3549490094447871980}
   m_Layer: 0
-  m_Name: Particulas-Amarillas
+  m_Name: Particulas-Fucsia
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -865,7 +865,7 @@ ParticleSystem:
     rateOverTime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 25
+      scalar: 60
       minScalar: 10
       maxCurve:
         serializedVersion: 2
@@ -4709,8 +4709,8 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
-  - {fileID: 2100000, guid: cad95e1fc2c4be04291be1d8bedfd5c4, type: 2}
+  - {fileID: 2100000, guid: a3e330facb327f148afae7523dfb81a7, type: 2}
+  - {fileID: 2100000, guid: a3e330facb327f148afae7523dfb81a7, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
