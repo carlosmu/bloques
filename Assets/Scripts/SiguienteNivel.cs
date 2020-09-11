@@ -26,6 +26,10 @@ public class SiguienteNivel : MonoBehaviour
     // También podríamos poner private.
     void CargarNivel()
     {
+        if (!EsUltimoNivel())
+        {
+            Vidas.vidas++;
+        }
         Application.LoadLevel(nivelACargar);
     }
 

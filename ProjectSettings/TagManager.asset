@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Bloque
+  - Suelo
   layers:
   - Default
   - TransparentFX
