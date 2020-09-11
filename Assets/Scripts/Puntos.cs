@@ -30,6 +30,7 @@ public class Puntos : MonoBehaviour
     // Me faltó esta.. para que funcione el if final de "ganar puntos".
     [SerializeField] private Barra barra;
 
+    [SerializeField] private SonidosFinPartida sonidosFinPartida; // Acá vamos a asignar la referencia al script "sonidosfinpartida"
     private void Start()
     {
         // Llamo a actualizar los puntos.
@@ -73,6 +74,7 @@ public class Puntos : MonoBehaviour
                 nivelCompletado.SetActive(true);
             }
 
+            sonidosFinPartida.NivelCompletado();
             siguienteNivel.ActivarCarga();
         }
     }

@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class Vidas : MonoBehaviour
 {
     // Las vidas iniciales. Es estática para que haya una sola
-    public static int vidas = 30;
+    public static int vidas = 3;
 
     // El texto donde van las vidas
     [SerializeField] private Text textoVidas;
@@ -23,6 +23,8 @@ public class Vidas : MonoBehaviour
     [SerializeField] private GameObject gameOver;
     // Hacemos referencia al script del Siguiente Nivel.
     [SerializeField] private SiguienteNivel siguienteNivel;
+
+    [SerializeField] private SonidosFinPartida sonidosFinPartida; // Acá vamos a asignar la referencia al script "sonidosfinpartida"
 
     // Start is called before the first frame update
     void Start()
@@ -51,6 +53,9 @@ public class Vidas : MonoBehaviour
         // Luego.. Si vidas es igual o menor que 0, mostrar GameOver.
         if (Vidas.vidas <= 0)
         {
+            // Hacemos referencia SonidosFinPartida y llamo a su método GameOver.
+            sonidosFinPartida.GameOver();
+
             // Mostrar GameOver
             gameOver.SetActive(true);
             

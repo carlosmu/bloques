@@ -20,7 +20,6 @@ public class Pelota : MonoBehaviour
     // Creamos una variable para alojar la posición inicial de la pelota
     private Vector3 posicionInicial;
 
-
     private void Awake()
     {
         // Asignamos el rigidbody mediante el método getcomponent.
