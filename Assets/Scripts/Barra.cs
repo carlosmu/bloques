@@ -6,6 +6,8 @@ public class Barra : MonoBehaviour
 {
     // Exponer en el editor una variable para modificar la velocidad
     [SerializeField] private float velocidad = 20f;
+    [SerializeField] private float aceleracion = 5f;
+    [SerializeField] private float velocidadMaxima = 30f;
 
     private Vector3 posicionInicial;
 
@@ -32,7 +34,8 @@ public class Barra : MonoBehaviour
     void Update()
     {
 
-        float direccion;
+        float direccion; // 
+
         if (botonIzquierda.pulsado)
         {
             direccion = -1;
@@ -44,6 +47,17 @@ public class Barra : MonoBehaviour
         else
         {
             direccion = Input.GetAxisRaw("Horizontal");
+        }
+
+        // agrega la aceleración
+        if (direccion != 0)
+        {
+            velocidad += aceleracion * Time.deltaTime;
+            velocidad = Mathf.Clamp(velocidad, 0, velocidadMaxima);
+        }
+        else
+        {
+            velocidad = 0;
         }
 
         // Lo mismo anterior lo podemos escribir así:
